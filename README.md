@@ -1,9 +1,9 @@
 # Capstone-Project---VI-Final-Project
 
-Your Task
+ - Your Task
 Given a particular dataset you will be asked to define a problem, identify potential Machine Learning algorithms to solve that problem, select an approach to implement, and discuss the results of your model. 
 
-Dataset Options
+ - Dataset Options
 You are provided with several open-source dataset options, or you can use one of your choosing. If it is not open-source, ensure you have appropriate permissions.
 
 The provided datasets are explained briefly in the Capstone Project Outline
