@@ -15,8 +15,3 @@ The capstone project should be written like a research-based business paper and 
  - The PDF of your report
 The .ipynb file of your code
 The Consent Form: Vector retains Capstones as evidence of learning for our sponsors, partners, and government funders and as such, a consent form must be signed.
- 
-
-
-
-Upload 
