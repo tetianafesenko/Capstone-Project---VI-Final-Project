@@ -18,5 +18,5 @@ The Consent Form: Vector retains Capstones as evidence of learning for our spons
  
 
 
- - Due Date
+ - Due 
 Upload your project through the assignments section of Brightspace by Friday, May 5 @ 11:59pm.
