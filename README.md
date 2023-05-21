@@ -16,7 +16,7 @@ The capstone project should be written like a research-based business paper and 
 The .ipynb file of your code
 The Consent Form: Vector retains Capstones as evidence of learning for our sponsors, partners, and government funders and as such, a consent form must be signed.
  
-The Evaluation Rubric is available in the Capstone Project Outline
+
 
  - Due Date
 Upload your project through the assignments section of Brightspace by Friday, May 5 @ 11:59pm.
