@@ -19,4 +19,4 @@ The Consent Form: Vector retains Capstones as evidence of learning for our spons
 
 
 
-Upload your project through the assignments section of 
+Upload your project through the assignments 
