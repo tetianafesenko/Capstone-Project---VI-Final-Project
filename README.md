@@ -10,8 +10,7 @@ You are provided with several open-source dataset options, or you can use one of
 Structure & Format
 
  - Your Capstone Project is a 4-6 page written document.
-The capstone project should be written like a research-based business paper and should include the sections detailed in the Capstone Project Outline
-What to Submit
+The capstone project should be written like a research-based business paper and should include the sections detailed in the Capstone Pr
 
  - The PDF of your report
 The .ipynb file of your code
