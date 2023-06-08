@@ -12,4 +12,5 @@ Structure & Format
  - Your Capstone Project is a 4-6 page written document.
 The capstone project should be written like a research-based business paper and should include the sections detailed in the Capstone Pr
 
- 
+ - The PDF of your report
+
