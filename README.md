@@ -14,4 +14,4 @@ The capstone project should be written like a research-based business paper and 
 
  - The PDF of your report
 The .ipynb file of your code
-
+The Consent Form: 
