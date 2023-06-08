@@ -13,4 +13,5 @@ Structure & Format
 The capstone project should be written like a research-based business paper and should include the sections detailed in the Capstone Pr
 
  - The PDF of your report
+The .ipynb file of your code
 
